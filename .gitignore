@@ -1,0 +1,8 @@
+*.log
+.DS_Store
+.next
+node_modules
+.env*
+public/sitemap.xml
+course/**/yarn.lock
+.now
